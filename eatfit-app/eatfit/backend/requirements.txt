@@ -1,0 +1,12 @@
+fastapi==0.115.*
+uvicorn[standard]==0.32.*
+pydantic==2.*
+python-dotenv==1.*
+python-multipart==0.0.*
+psycopg[binary]==3.2.*
+psycopg-pool==3.2.*
+pyjwt[crypto]==2.*
+pulp==2.9.0
+highspy==1.*
+rapidfuzz==3.*
+google-genai==1.*

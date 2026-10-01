@@ -1,0 +1,46 @@
+id,name,aliases,unit,grams,step,max_per_meal,diet,allergens,category,booster,kcal,protein,carbs,fat,fibre,iron,calcium,vitc,source
+roti,Roti,chapati|chapathi|phulka|rotis|chapatis,piece,40,1,4,veg,gluten,staple,0,110,3.5,20,2.0,2.5,1.2,15,0,estimate
+plain_rice,Plain Rice,rice|steamed rice|white rice|chawal|basmati rice,bowl,150,0.5,2,veg,,staple,0,195,4.0,43,0.4,0.6,0.3,15,0,estimate
+jeera_rice,Jeera Rice,cumin rice,bowl,150,0.5,2,veg,,staple,0,230,4.0,42,5.0,0.8,0.5,15,0,estimate
+khichdi,Khichdi,khichri|kichdi|dal khichdi,bowl,200,0.5,2,veg,,staple,0,230,8.0,38,5.0,3.5,1.8,30,1,estimate
+aloo_paratha,Aloo Paratha,paratha|alu paratha|aloo parotha|stuffed paratha,piece,100,1,3,veg,gluten,staple,0,290,6,40,12,4,2.0,30,6,estimate
+veg_biryani,Veg Biryani,biryani|veg pulao|pulao|veg biriyani,plate,250,0.5,1.5,veg,,staple,0,400,9,60,13,4,2.0,50,6,estimate
+chicken_biryani,Chicken Biryani,chicken biriyani,plate,250,0.5,1.5,nonveg,,staple,0,480,22,55,18,2.5,2.0,45,3,estimate
+poha,Poha,kanda poha|aval|pohe,plate,150,0.5,2,veg,peanut,breakfast,0,250,5,40,8,2,3.0,20,5,estimate
+upma,Upma,rava upma|uppittu|uppma,plate,150,0.5,2,veg,gluten,breakfast,0,230,5,32,9,2,1.5,25,2,estimate
+idli,Idli,idly|idlis,piece,40,1,5,veg,,breakfast,0,58,2,12,0.2,0.6,0.3,8,0,estimate
+plain_dosa,Plain Dosa,dosa|sada dosa,piece,90,1,3,veg,,breakfast,0,170,4,28,5,1,0.8,15,0,estimate
+masala_dosa,Masala Dosa,masala dosai,piece,170,1,2,veg,,breakfast,0,300,6,42,12,3,1.5,30,6,estimate
+bread_slice,Bread Slice,bread|toast|white bread|bread toast,slice,25,1,4,veg,gluten,breakfast,0,75,2.5,14,1,0.7,0.9,30,0,estimate
+dal_tadka,Dal Tadka,dal|daal|dal fry|toor dal|yellow dal|arhar dal,bowl,150,0.5,2,veg,,dal,0,170,9,20,6,4,2.0,35,2,estimate
+moong_dal,Moong Dal,moong daal|green gram dal,bowl,150,0.5,2,veg,,dal,0,150,9,20,4,4,1.8,30,2,estimate
+rajma,Rajma,rajma masala|kidney beans|rajma curry,bowl,150,0.5,2,veg,,dal,0,200,10,28,6,7,3.0,60,3,estimate
+chole,Chole,chana masala|chhole|chickpea curry|kabuli chana,bowl,150,0.5,2,veg,,dal,0,240,10,30,9,8,3.2,70,4,estimate
+sambar,Sambar,sambhar|sambaar,bowl,150,0.5,2,veg,,dal,0,130,6,18,4,5,1.5,50,8,estimate
+rasam,Rasam,saaru,bowl,150,0.5,2,veg,,dal,0,50,2,8,1.5,1,0.6,15,6,estimate
+mix_veg,Mixed Veg Sabzi,mix veg|mixed vegetable|veg sabzi|sabzi|subji,bowl,100,0.5,2,veg,,sabzi,0,110,3,12,6,4,1.0,40,15,estimate
+aloo_sabzi,Aloo Sabzi,aloo|potato curry|aloo fry|batata bhaji,bowl,100,0.5,2,veg,,sabzi,0,150,2.5,20,7,2.5,0.8,15,10,estimate
+bhindi,Bhindi Masala,bhindi|okra|lady finger|bhindi fry,bowl,100,0.5,2,veg,,sabzi,0,120,2.5,10,8,4,0.8,70,12,estimate
+palak_paneer,Palak Paneer,palak|spinach paneer,bowl,150,0.5,2,veg,dairy,sabzi,0,240,12,9,17,3,2.5,280,20,estimate
+paneer_masala,Paneer Butter Masala,paneer|paneer masala|shahi paneer|paneer curry,bowl,150,0.5,1.5,veg,dairy,sabzi,0,320,13,12,25,2,1.0,300,5,estimate
+salad,Green Salad,salad|kachumber|cucumber salad,plate,100,0.5,2,veg,,side,0,25,1,5,0.2,1.5,0.5,20,12,estimate
+curd,Curd,dahi|yogurt|yoghurt|raita,bowl,100,0.5,2,veg,dairy,side,1,60,3.5,4.5,3,0,0.1,120,1,estimate
+buttermilk,Buttermilk,chaas|chhaas|mor|majjiga,glass,200,1,2,veg,dairy,drink,0,40,2,3,1.5,0,0.1,100,1,estimate
+milk,Milk,toned milk|doodh|glass of milk,glass,200,0.5,2,veg,dairy,drink,1,120,6.4,9.4,6,0,0.2,240,2,estimate
+chai,Tea,chai|masala chai|tea,cup,150,1,2,veg,dairy,drink,0,90,2.5,13,3,0,0.1,80,0,estimate
+boiled_egg,Boiled Egg,egg|eggs|anda|boiled eggs,piece,50,1,3,egg,egg,protein,1,78,6.3,0.6,5.3,0,0.9,25,0,estimate
+omelette,Omelette,omlet|omelet|egg omelette,piece,110,1,2,egg,egg,protein,0,190,13,2,15,0.5,1.8,60,1,estimate
+egg_curry,Egg Curry,anda curry|egg masala,bowl,150,0.5,1.5,egg,egg,protein,0,260,14,8,19,1.5,2.0,70,4,estimate
+chicken_curry,Chicken Curry,chicken|chicken masala|chicken gravy,bowl,150,0.5,1.5,nonveg,,protein,0,250,22,6,15,1.5,1.5,30,3,estimate
+fish_curry,Fish Curry,fish|machli|fish masala,bowl,150,0.5,1.5,nonveg,fish,protein,0,220,22,6,12,1,1.2,50,3,estimate
+samosa,Samosa,samosas,piece,80,1,2,veg,gluten,snack,0,260,4,30,14,2.5,1.2,20,4,estimate
+banana,Banana,kela,piece,100,1,2,veg,,fruit,1,100,1.3,26,0.4,2.6,0.3,6,9,estimate
+apple,Apple,seb,piece,180,1,1,veg,,fruit,1,95,0.5,25,0.3,4.4,0.2,11,8,estimate
+orange,Orange,santra|mosambi,piece,130,1,1,veg,,fruit,1,62,1.2,15,0.2,3.1,0.1,52,70,estimate
+guava,Guava,amrood|peru|jamfal,piece,100,1,1,veg,,fruit,1,68,2.6,14,1,5.4,0.3,18,200,estimate
+dates,Dates,khajur|kharjura,2 pieces,16,1,2,veg,,fruit,0,45,0.4,12,0,1.3,0.2,10,0,estimate
+amla,Amla,indian gooseberry|nellikai,piece,30,1,2,veg,,booster,1,15,0.3,4,0.1,1,0.4,15,75,estimate
+lemon_half,Lemon (half),lemon|nimbu|lime|lemon juice,half,15,1,2,veg,,booster,1,4,0.1,1.3,0,0.1,0.1,2,6,estimate
+peanuts,Roasted Peanuts,peanut|groundnut|moongphali|shengdana,handful,30,1,1,veg,peanut,booster,1,170,7.5,5,14,2.5,1.4,25,0,estimate
+roasted_chana,Roasted Chana,bhuna chana|futana|roasted gram,handful,30,1,2,veg,,booster,1,110,6.5,17,1.7,5,1.5,17,0,estimate
+sprouts,Moong Sprouts,sprouts|sprouted moong|sprout salad,bowl,100,0.5,2,veg,,booster,1,105,7,17,0.5,4,1.6,35,10,estimate
